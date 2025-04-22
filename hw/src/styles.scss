@@ -1,0 +1,9 @@
+$primary-color: #000000;
+$secondary-color: #ffffff;
+$font-family: 'Atkinson Hyperlegible Mono', sans-serif;
+
+body {
+    background-color: $primary-color;
+    color: $secondary-color;
+    font-family: $font-family;
+}

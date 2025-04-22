@@ -1,0 +1,16 @@
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles.css ***!
+  \******************************************************************/
+body {
+    background: #000;
+    color: white;
+    font-size: 22px;
+}
+/*!**********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles.scss ***!
+  \**********************************************************************************************************/
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Atkinson Hyperlegible Mono", sans-serif;
+}
